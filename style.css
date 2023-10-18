@@ -1,3 +1,10 @@
+h1{
+    font: size 25px;
+    color: red;
+    text-align: center;
+}
 p{
-    text-align:<p> center;
+    font: size 20px;
+    color: black;
+    text-align: center;
 }
