@@ -12,6 +12,9 @@ body {
 color: white;
 background-color: yellowgreen
 
-
-
+img{
+    font-size: 50px;
+    color: red;
+    text-align:justify;
+    
 }
