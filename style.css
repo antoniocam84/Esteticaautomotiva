@@ -30,5 +30,8 @@ img{
     border-radius: 50%;
     border: 5px solid green;
     
+}
 
+.center{
+    text-align: center;
 }
