@@ -10,16 +10,10 @@ ul{
 
     display: flex;
     justify-content: space-between;
+    list-style-type: none;
     align-items: center;
     padding: 10px;
 
-}
-
-ol{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px; 
 }
 
 a {
