@@ -38,10 +38,15 @@ img{
 
 h1{
     color: greenyellow;
-    font-size: 40px;
+    font-size: 60px;
     text-align: center;
+
 }
 
+h2{
+color: white;
+text-align: center;
+}
 p{
 
     text-align: justify;
