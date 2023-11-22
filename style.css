@@ -20,7 +20,7 @@ ol{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 50px; 
+    padding: 10px; 
 }
 
 a {
