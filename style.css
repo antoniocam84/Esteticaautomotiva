@@ -72,11 +72,11 @@ color: white;
     color: white;
  }
 
- main{
+nav{
     padding: 10px;
-background-color: rgba(81, 255, 0, 0.308);
+background-color: rgba(72, 255, 0, 0.932);
 border-bottom: 2px solid white;
 font-size: 32px;
 color: white;
- }
+}
 
