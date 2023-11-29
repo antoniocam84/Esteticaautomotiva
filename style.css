@@ -64,5 +64,13 @@ color: white;
 
  }
 
+ section{
+    padding: 10px;
+    background-color: rgba(251, 255, 0, 0.308);
+    border-bottom: 2px solid white;
+    font-size: 32px;
+    color: white;
+
+ }
 
 
