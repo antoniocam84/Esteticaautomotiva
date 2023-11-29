@@ -34,11 +34,7 @@ img{
 
 .center{
     text-align: center;
-    background-image:url("fundo1.jpg");
-    background-size: cover;
-    background-repeat:no-repeat;
-    background-attachment:fixed;    
-    background-position: center center
+
 }
 
 h1{
