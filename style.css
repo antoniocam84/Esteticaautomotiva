@@ -34,6 +34,7 @@ img{
 
 .center{
     text-align: center;
+
 }
 
 h1{
@@ -56,7 +57,7 @@ p{
  header{
 
 padding: 10px;
-background-color: rgba(0, 0, 255, 0.178);
+background-color: rgba(0, 140, 255, 0.034);
 border-bottom: 2px solid white;
 font-size: 32px;
 color: white;
