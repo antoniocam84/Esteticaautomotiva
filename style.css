@@ -56,7 +56,7 @@ p{
  header{
 
 padding: 10px;
-background-color: blue;
+background-color: rgba(0, 0, 255, 0.178);
 border-bottom: 2px solid white;
 font-size: 32px;
 color: white;
