@@ -70,7 +70,6 @@ color: white;
     border-bottom: 2px solid white;
     font-size: 32px;
     color: white;
-    background-image:url("img/carro33.jpg");
  }
  
 
@@ -84,6 +83,10 @@ color: white;
 h3{
     color: rgb(228, 109, 109);
 text-align: justify
+}
+
+section1{
+    background-image:url("img/carro33.jpg");
 }
 
 
