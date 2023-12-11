@@ -67,12 +67,15 @@ color: white;
 
  }
 
- section{
+ section1{
     padding: 5px;
     background-color: rgba(161, 243, 175, 0.281);
     border-bottom: 2px solid white;
     font-size: 32px;
     color: white;
+    background-image: url(img/carro34.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     
  }
  
