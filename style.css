@@ -28,7 +28,7 @@ img{
     width: 300px;
     height: 150px;
     border-radius: 20%;
-    border: 5px solid rgb(128, 241, 128);
+    border: 5px solid white;
     
 }
 
@@ -85,7 +85,7 @@ font-size: 32px;
 color: white;
 }
 h3{
-    color: rgb(207, 14, 14);
+    color: rgb(228, 109, 109);
 text-align: justify
 }
 
