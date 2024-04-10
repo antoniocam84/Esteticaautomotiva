@@ -79,8 +79,8 @@ color: white;
 
 nav{
     padding: 0,2px;
-background-color: rgba(113, 179, 87, 0.712);
-border-bottom: 2px solid white;
+background-color: blue;
+border-bottom: 2px solid rgb(54, 255, 47);
 font-size: 32px;
 color: white;
 }
