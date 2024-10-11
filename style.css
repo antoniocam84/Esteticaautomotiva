@@ -23,7 +23,7 @@ a {
 
 }
 
- img{
+header img{
 
     width: 300px;
     height: 150px;
@@ -109,6 +109,11 @@ footer p {
     margin-top: 2px;
 }
 
-
+.container{
+    padding: 0px 50px;
+}
+nav a:hover{
+    color: black;
+}
 
 
