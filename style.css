@@ -80,13 +80,13 @@ color: white;
 nav{
     padding: 0,2px;
 background-color: blue;
-border-bottom: 2px solid rgb(228, 109, 109);
+border-bottom: 2px solid black;
 font-size: 32px;
 color: white;
 }
 
 h3{
-    color: rgb(228, 109, 109);
+    color: black;
 text-align: justify
 }
 
