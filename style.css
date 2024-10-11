@@ -109,3 +109,12 @@ footer p {
     margin-top: 2px;
 }
 
+.rodape{
+    background-color: rgba(0, 81, 255, 0.575);
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+}
